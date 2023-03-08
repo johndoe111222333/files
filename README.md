@@ -1,4 +1,6 @@
-# <center> GitHub: Free Cloud Storage & File Hosting </center> 
+![](https://github.com/chameleonhash/hostedfiles/blob/main/assets/pics/toast%20.png?raw=true)
+***
+# **GitHub: Free Cloud Storage & File Hosting**
 
 ### Free alternative, useful for smaller operation file hosting, cloud storage, and hyperlinking.
 ### Any file extension is supported, i.e. png, jpg, mp4, gif, exe, mp3, pdf (see size limits below).
