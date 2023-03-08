@@ -10,6 +10,7 @@
 * If you attempt to add a file that is larger than 50 MB, you will receive a warning, however the file will still push to the repository. 
 * If you add a file to a repository via a browser , the file can be no larger than 25 MB. 
 * When uploading files to a repository via the command line, GitHub allows single uploads as large as 100 MB.
+* Maximum file size per repository is 100 GB (so yes, you could store up to 100 GB of your files for free).
 * For more information, see ["Adding a File to a Repository"](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository).
 
 ### To link or embed a file from your hosted repository in an HTML document, or to download, simply append 
