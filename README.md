@@ -7,11 +7,13 @@
  
 ## *Known Limitations as of 2023:* 
 
-* If you attempt to add or update a file that is larger than 50 MB, you will receive a warning from Git, however, changes will still successfully push to your repo.
+* If you attempt to add a file that is larger than 50 MB, you will receive a warning from Git. 
 * If you add a file to repo via a browser, the file can be no larger than 25 MB. 
-* For more information, see ["Adding a File to a Repository"](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository), which states, when uploading files to a repository from the command line, GitHub allows single uploads as large as 100 MB.
+* When uploading files to a repository via the command line, GitHub allows single uploads as large as 100 MB.
+* For more information, see ["Adding a File to a Repository"](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository).
 
-### To link or embed a file from your hosted repository in an HTML document, or to download, simply append `?raw=true` to the file's URL, which provides the downloadable/embeddable version of the file's address.
+### To link or embed a file from your hosted repository in an HTML document, or to download, simply append 
+### `?raw=true` to the file's URL, which provides the downloadable/embeddable version of the file's address.
 
 ### If the web address to your file is 
 
@@ -24,7 +26,7 @@
 --*With the new URL, you can now directly link the file, embed it on another webpage, or even directly download it by simply pasting the appended URL into any browser address bar*
 
 
-### For example below this line, I will be linking a "Trippy Cat" gif that is stored in this repository by the URL it was designated and appending `?raw=true`.  So, as long as there is a "Trippy Cat" gif beneath this line, we have a functioning proof of work example:
+### For example below this line, I will be linking a "Trippy Cat" gif that is stored in this repository by the URL it is designated, appending `?raw=true`.  So, as long as there is a "Trippy Cat" gif beneath this line, we have a functioning proof of work example:
 
 ***
 ![](https://github.com/chameleonhash/hostedfiles/blob/main/assets/pics/gifs/Trippy-Cat.gif?raw=true)
