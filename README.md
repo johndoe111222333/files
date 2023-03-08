@@ -31,7 +31,10 @@
 
 ***
 ![](https://github.com/chameleonhash/hostedfiles/blob/main/assets/pics/gifs/Trippy-Cat.gif?raw=true)
+***
+#### So essentially, this repository can serve as free cloud storage, or even image hosting for you and your team.  The possibilities are endless as far as integration with platforms like nextcloud.  Total size limit per repository is 100 GB.
 
+#### The directory structure has been laid out in a general fashion, feel free to change as you see fit.  Sample uploads can be deleted. Remember no uploads larger than 100 MB or they will be rejected (no larger than 25 MB if uploading through the browser).  
 
 
 
