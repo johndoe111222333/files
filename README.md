@@ -12,15 +12,16 @@
 * For more information, see ["Adding a File to a Repository"](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository), which states, when uploading files to a repository from the command line, GitHub allows single uploads as large as 100 MB.
 
 ### To link or embed a file from your hosted repository in an HTML document, or to download, simply append `?raw=true` to the file's URL, which provides the downloadable/embeddable version of the file's address.
-If the web address to your file is 
 
--- https:// github.com/chameleonhash/hostedfiles/blob/main/assets/pics/gifs/Trippy-Cat.gif 
+### If the web address to your file is 
 
--- simply add `?raw=true` to the end of that URL like so -- 
+-- *https://github.com/chameleonhash/hostedfiles/blob/main/assets/pics/gifs/Trippy-Cat.gif*
 
--- https:// github.com/chameleonhash/hostedfiles/blob/main/assets/pics/gifs/Trippy-Cat.gif?raw=true
+-- *simply add `?raw=true` to the end of that URL like so:* 
 
---With the appended URL, you can directly download the file by simply pasting the appended URL in any browser address bar) whatever file is stored
+-- *https://github.com/chameleonhash/hostedfiles/blob/main/assets/pics/gifs/Trippy-Cat.gif?raw=true*
+
+--*With the new URL, you can now directly link the file, embed it on another webpage, or even directly download it by simply pasting the appended URL into any browser address bar*
 
 
 ### For example below this line, I will be linking a "Trippy Cat" gif that is stored in this repository by the URL it was designated and appending `?raw=true`.  So, as long as there is a "Trippy Cat" gif beneath this line, we have a functioning proof of work example:
