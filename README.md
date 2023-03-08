@@ -26,7 +26,7 @@
 --*With the new URL, you can now directly link the file, embed it on another webpage, or even directly download it by simply pasting the appended URL into any browser address bar*
 
 
-### For example, below this line, a "Trippy Cat" gif, a file that is stored in this repository, should be embedded and visible.  Through the appropriate HTML markdown syntax, which includes the designated URL of the file, and also, appending `?raw=true` to that URL, we are able to embed the "Trippy Cat" as it is pictured below. As long as there is a "Trippy Cat" gif beneath this line, this repository has a functioning, proof of work example for embedding a file:
+### For example, below this line, a "Trippy Cat" gif should be visible. The gif embedded is a file that is stored within this repository.  Through the appropriate HTML markdown syntax, which includes the designated URL of the file, and also, appending `?raw=true` to that URL, we are able to embed the "Trippy Cat" as it is pictured below. So, as long as there is a "Trippy Cat" gif beneath this line, this repository has a functioning, proof of work example of embedding files:
 
 ***
 ![](https://github.com/chameleonhash/hostedfiles/blob/main/assets/pics/gifs/Trippy-Cat.gif?raw=true)
