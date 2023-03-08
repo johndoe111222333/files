@@ -7,7 +7,7 @@
  
 ## *Known Limitations as of 2023:* 
 
-* If you attempt to add a file that is larger than 50 MB, you will receive a warning from Git. 
+* If you attempt to add a file that is larger than 50 MB, you will receive a warning, however the file will still push to the repository. 
 * If you add a file to repo via a browser, the file can be no larger than 25 MB. 
 * When uploading files to a repository via the command line, GitHub allows single uploads as large as 100 MB.
 * For more information, see ["Adding a File to a Repository"](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository).
