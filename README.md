@@ -26,7 +26,7 @@
 --*With the new URL, you can now directly link the file, embed it on another webpage, or even directly download it by simply pasting the appended URL into any browser address bar*
 
 
-### For example below this line, I will be linking a "Trippy Cat" gif that is stored in this repository by the URL it is designated, appending `?raw=true`.  So, as long as there is a "Trippy Cat" gif beneath this line, we have a functioning proof of work example:
+### For example, below this line, I will be linking a "Trippy Cat" gif that is stored in this repository by the URL it is designated, appending `?raw=true`.  So, as long as there is a "Trippy Cat" gif beneath this line, we have a functioning proof of work example:
 
 ***
 ![](https://github.com/chameleonhash/hostedfiles/blob/main/assets/pics/gifs/Trippy-Cat.gif?raw=true)
