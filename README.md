@@ -1,2 +1,33 @@
-# hostedfiles
-Files hosted on Github for linking and storage purposes.
+# <center> GitHub: Free Cloud Storage & File Hosting </center> 
+
+### Free alternative, useful for smaller operation file hosting, cloud storage, and hyperlinking.
+### Any file extension is supported, i.e. png, jpg, mp4, gif, exe, mp3, pdf (see size limits below).
+### Easy to link, share and access for downloading or viewing any time.
+
+ 
+## *Known Limitations as of 2023:* 
+
+* If you attempt to add or update a file that is larger than 50 MB, you will receive a warning from Git, however, changes will still successfully push to your repo.
+* If you add a file to repo via a browser, the file can be no larger than 25 MB. 
+* For more information, see ["Adding a File to a Repository"](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository), which states, when uploading files to a repository from the command line, GitHub allows single uploads as large as 100 MB.
+
+### To link or embed a file from your hosted repository in an HTML document, or to download, simply append `?raw=true` to the file's URL, which provides the downloadable/embeddable version of the file's address.
+If the web address to your file is 
+
+-- https:// github.com/chameleonhash/hostedfiles/blob/main/assets/pics/gifs/Trippy-Cat.gif 
+
+-- simply add `?raw=true` to the end of that URL like so -- 
+
+-- https:// github.com/chameleonhash/hostedfiles/blob/main/assets/pics/gifs/Trippy-Cat.gif?raw=true
+
+--With the appended URL, you can directly download the file by simply pasting the appended URL in any browser address bar) whatever file is stored
+
+
+### For example below this line, I will be linking a "Trippy Cat" gif that is stored in this repository by the URL it was designated and appending `?raw=true`.  So, as long as there is a "Trippy Cat" gif beneath this line, we have a functioning proof of work example:
+
+***
+![](https://github.com/chameleonhash/hostedfiles/blob/main/assets/pics/gifs/Trippy-Cat.gif?raw=true)
+
+
+
+
